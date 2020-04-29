@@ -1,0 +1,13 @@
+{
+"companyName": "U el Bosque",
+"productName": "Desafio Juego",
+"dataUrl": "desafio.data.unityweb",
+"wasmCodeUrl": "desafio.wasm.code.unityweb",
+"wasmFrameworkUrl": "desafio.wasm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
